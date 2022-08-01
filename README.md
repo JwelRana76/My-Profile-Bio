@@ -2,6 +2,12 @@
 
 <p>Hi I am Md. Jwel Rana. I am a student of github & laravel</p>  
 
+</br>
+
+### This other Heading
+
+</br>
+
 ### My facebook Profile Link
 [facebook][facebook]  
 
@@ -9,7 +15,7 @@
 
 ### My Image
 
-<img src="./image/jwel.jpg"/>  
+<img src="./image/jwel.JPG"/>  
 
 </br>
 
